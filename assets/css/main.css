@@ -4001,3 +4001,9 @@
   max-height: 562px;
 	max-width: 1000px;
 }
+
+	.flaggy {
+		vertical-align:  middle;
+		width: 60px;
+		height: 35px;
+	}
